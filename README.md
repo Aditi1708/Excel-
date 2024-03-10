@@ -1,4 +1,4 @@
-# Coffee Sales Dashboard
+# Coffee Sales Dashboard📊☕️
 
 This repository contains a Coffee Sales Dashboard created in Excel, designed to provide comprehensive insights into coffee sales data. The dashboard features various interactive charts, including a timeline chart for tracking sales over time, a line chart displaying sales by coffee type, and bar charts showcasing sales by country and top 5 customers.
 
@@ -19,8 +19,3 @@ This repository contains a Coffee Sales Dashboard created in Excel, designed to 
 2. Open the file in Microsoft Excel.
 3. Explore the various charts and utilize the slicer for data filtering.
 4. Gain insights into coffee sales trends and customer behavior.
-
-## Contributors:
-- [Your Name]
-
-Feel free to contribute to this project by suggesting improvements or additional features. Let's brew up some insightful data analysis! 📊☕️
